@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Kalter Krieg - Asynchrone Lerneinheit</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="hero">
+    <div class="hero-inner">
+      <p class="eyebrow">Sek II | Asynchron | Geschichte</p>
+      <h1>Kalter Krieg: Quellen sehen, Deutung begruenden</h1>
+      <p class="lede">
+        Diese Lerneinheit nutzt die Webseite <span class="site">kalterkrieg.ch</span> als
+        Arbeitsgrundlage. Du arbeitest selbststaendig, bekommst Sofortfeedback und
+        dokumentierst Beobachtungen.
+      </p>
+      <div class="actions">
+        <a class="btn" href="https://www.kalterkrieg.ch/" target="_blank" rel="noopener">Webseite oeffnen</a>
+        <a class="btn ghost" href="lesson.md">Ablauf lesen</a>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="card">
+      <h2>Arbeitsweg in 3 Schritten</h2>
+      <ol>
+        <li>Starte mit dem Ablauf in <code>lesson.md</code> und den Aufgaben in <code>activities.md</code>.</li>
+        <li>Bearbeite die Aufgaben direkt auf der Webseite (neuer Tab).</li>
+        <li>Pruefe dich hier mit dem Sofortfeedback-Quiz.</li>
+      </ol>
+    </section>
+
+    <section class="card">
+      <h2>Sofortfeedback-Quiz</h2>
+      <p class="hint">Mehrere Fragen beziehen sich auf die Navigation und Kapiteluebersicht der Webseite.</p>
+      <form id="quiz"></form>
+      <div class="score" id="score"></div>
+      <div class="actions">
+        <button class="btn" id="submit" type="button">Auswerten</button>
+        <button class="btn ghost" id="reset" type="button">Zuruecksetzen</button>
+      </div>
+      <div class="model">
+        <details>
+          <summary>Musterloesungen und Beobachtungsauftraege</summary>
+          <p>Siehe <code>feedback.md</code> fuer ausfuehrliche Rueckmeldungen.</p>
+        </details>
+      </div>
+    </section>
+
+    <section class="card">
+      <h2>Optional: Einbettung (falls erlaubt)</h2>
+      <p class="hint">
+        Manche Webseiten blockieren Einbettung per iFrame. Wenn es bei dir funktioniert,
+        kannst du die Einbettung aktivieren, indem du den untenstehenden Block in
+        <code>index.html</code> ent-kommentierst.
+      </p>
+      <pre><code>&lt;!--
+&lt;div class="embed"&gt;
+  &lt;iframe src="https://www.kalterkrieg.ch/" title="Kalter Krieg"&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+--&gt;</code></pre>
+    </section>
+  </main>
+
+  <script src="quiz.js"></script>
+</body>
+</html>

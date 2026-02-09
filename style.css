@@ -1,0 +1,153 @@
+@import url("https://fonts.googleapis.com/css2?family=Spectral:wght@400;600;700&family=Space+Grotesk:wght@400;600;700&display=swap");
+
+:root {
+  --bg: #f2efe8;
+  --ink: #1e1f1c;
+  --muted: #5b5f57;
+  --accent: #0d4b3f;
+  --accent-2: #b4552a;
+  --card: #fffdf7;
+  --line: #d9d2c7;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background:
+    radial-gradient(1200px 600px at 10% 10%, #f9f6ee 0%, transparent 55%),
+    radial-gradient(900px 500px at 90% 5%, #efe9dd 0%, transparent 60%),
+    var(--bg);
+  color: var(--ink);
+  font-family: "Spectral", serif;
+  line-height: 1.5;
+}
+
+.hero {
+  padding: 64px 20px 32px;
+  background: linear-gradient(120deg, #0d4b3f 0%, #1e1f1c 65%);
+  color: #f7f3ea;
+}
+
+.hero-inner {
+  max-width: 980px;
+  margin: 0 auto;
+}
+
+.eyebrow {
+  font-family: "Space Grotesk", sans-serif;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  font-size: 12px;
+  margin: 0 0 8px;
+}
+
+h1 {
+  font-size: clamp(28px, 5vw, 48px);
+  margin: 0 0 12px;
+}
+
+.lede {
+  max-width: 720px;
+  font-size: 18px;
+  color: #f0e9d8;
+}
+
+.site {
+  color: #ffd9b5;
+  font-weight: 600;
+}
+
+.actions {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.btn {
+  background: var(--accent-2);
+  color: #fff;
+  border: none;
+  padding: 10px 16px;
+  border-radius: 999px;
+  text-decoration: none;
+  font-family: "Space Grotesk", sans-serif;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.btn.ghost {
+  background: transparent;
+  color: #fff;
+  border: 1px solid #f0e9d8;
+}
+
+main {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 28px 20px 80px;
+  display: grid;
+  gap: 20px;
+}
+
+.card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  padding: 20px;
+  border-radius: 16px;
+  box-shadow: 0 12px 30px rgba(30, 31, 28, 0.08);
+}
+
+.card h2 {
+  margin-top: 0;
+}
+
+ol {
+  padding-left: 20px;
+}
+
+.hint {
+  color: var(--muted);
+}
+
+.question {
+  border-top: 1px dashed var(--line);
+  padding: 12px 0;
+}
+
+.question:first-child {
+  border-top: none;
+}
+
+.question h3 {
+  margin: 0 0 8px;
+  font-size: 18px;
+}
+
+.options {
+  display: grid;
+  gap: 6px;
+}
+
+.score {
+  margin-top: 12px;
+  font-family: "Space Grotesk", sans-serif;
+  font-weight: 600;
+}
+
+pre {
+  background: #f6f1e6;
+  border-radius: 12px;
+  padding: 12px;
+  overflow-x: auto;
+}
+
+@media (max-width: 700px) {
+  .actions {
+    flex-direction: column;
+    align-items: stretch;
+  }
+}
