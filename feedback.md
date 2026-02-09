@@ -1,32 +1,28 @@
-# Sofortfeedback und Musterloesungen
+# Rueckmelderaster (Sofortfeedback)
 
-## Navigation (Aufgabe A)
+## Struktur-Checks (immer Rueckmeldung)
 
-Erwartet: Zeitstrahl, Kapitel, Ernstfall, Interviews (weitere Punkte wie Kontakt/Donators koennen zusaetzlich genannt werden).
+- **Kernaussage**: 1-2 Saetze, paraphrasiert
+- **Belege**: mind. 2 kurze Zitate (max. 15 Woerter)
+- **Fakt vs. Deutung**: erkennbar getrennt
+- **Perspektive**: Rolle genannt + Einfluss erklaert
+- **Kontextabgleich**: konkrete Kontextseite genannt
 
-## Zeitstrahl (Aufgabe B)
+## Qualitative Hinweise
 
-Gutes Niveau:
-- Ereignisse zeitlich korrekt verortet
-- Bezug auf Bild- oder Dokumentenquelle
-- Kurze, eigene Zusammenfassung
+- Begruende Aussagen mit konkreten Beispielen.
+- Vermeide Zusammenfassung ohne Belege.
+- Zeige, wie die Rolle die Aussage formt.
+- Stelle mindestens einen Gegensatz oder Spannungsbogen heraus.
 
-## Kapitel (Aufgabe C)
+## Differenzierte Rueckmeldung (Interview-spezifisch)
 
-Gutes Niveau:
-- Kapitelthema klar benannt (z. B. Kuba, Untergang UdSSR, Atomwaffen auf deutschem Boden)
-- Mindestens zwei konkrete Details aus der Kapitelansicht
-
-## Interview (Aufgabe D)
-
-Gutes Niveau:
-- Kernaussage in eigenen Worten
-- Kurzes, treffendes Zitat (max. 15 Woerter)
-- Hinweis auf Perspektive (z. B. politisch, militaerisch, alltaeglich)
-
-## Ernstfall (Aufgabe E)
-
-Gutes Niveau:
-- Konkrete Beobachtung (Massnahme, Ort, Material, Symbol)
-- Verbindung zur Bedrohungswahrnehmung
-- Kurzes, begruendetes Urteil
+- **Lezzi (UNA)**: Neutralitaet vs. Zusammenarbeit, P-26/P-27, konkrete Affaeren.
+- **Mumenthaler (Zivilschutz)**: Luftschutz vs. Zivilschutz, Foederalismus, Ortschef.
+- **Haesler (Armee)**: Konzeptionsstreit, TO 61, Nachrichtendienstbezug.
+- **Hurni (FHD/MFD)**: Motivation, Akzeptanz, Wandel FHD -> MFD.
+- **Feldmann (Armee)**: Bedrohungslage, mobile Verteidigung, Gesamtverteidigung.
+- **Hochstrasser (Atomenergie)**: Geheimstudie, Nuklearambitionen, Uran.
+- **Wehrli (Zivilschutz)**: Praxis, Schutzraum-Uebungen, Pflicht/Freiwilligkeit.
+- **Huwyler-Bachmann (Historikerin)**: Zivilschutzanlage, zivile Vorbereitungen, gesellschaftliche Wirkung.
+- **Stuessi-Lauterburg (Historiker)**: militaerische Vorbereitungen, Nuklearplaene, historische Einordnung.

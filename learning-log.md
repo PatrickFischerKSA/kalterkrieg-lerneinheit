@@ -1,46 +1,59 @@
-# Lernjournal - Kalter Krieg
+# Lernjournal - Zeitzeugen im Kalten Krieg (90 Min)
 
 Name:
 Datum:
 
 ## A) Orientierung
 
-- Sichtbare Bereiche:
-- Bereichsauswahl + Begruendung:
+- Ausgewaehlte Zeitzeugen: Johanna Hurni, Josef Feldmann
+- Begruendung der Auswahl:
 
-## B) Zeitstrahl
+## B) Interview A - Johanna Hurni
 
-Ereignis 1:
-- Datum/Zeitraum:
-- Kurzbeschreibung:
-- Bild/Dokument + Begruendung:
-
-Ereignis 2:
-- Datum/Zeitraum:
-- Kurzbeschreibung:
-- Bild/Dokument + Begruendung:
-
-Ereignis 3:
-- Datum/Zeitraum:
-- Kurzbeschreibung:
-- Bild/Dokument + Begruendung:
-
-## C) Kapitel-Fallstudie
-
-- Kapitel:
-- Zusammenfassung:
-- Schluesselfrage/Spannung:
-- 2 Details (Belege):
-
-## D) Interview
-
-- Interview:
 - Kernaussage:
-- Zitat (max. 15 Woerter):
-- Perspektive/Erfahrung:
+- Aussage/Detail 1 (Zitat, max. 15 Woerter):
+- Aussage/Detail 2 (Zitat, max. 15 Woerter):
+- Aussage/Detail 3 (Zitat, max. 15 Woerter):
+- Erlebnis (Fakt) vs. Deutung (Bewertung):
+- Rolle/Perspektive:
 
-## E) Ernstfall + Urteil
+## C) Interview B - Josef Feldmann
 
-- Quelle/Beispiel:
-- Beobachtung:
-- Urteil:
+- Kernaussage:
+- Aussage/Detail 1 (Zitat, max. 15 Woerter):
+- Aussage/Detail 2 (Zitat, max. 15 Woerter):
+- Aussage/Detail 3 (Zitat, max. 15 Woerter):
+- Erlebnis (Fakt) vs. Deutung (Bewertung):
+- Rolle/Perspektive:
+
+## D) Vergleich
+
+- Gemeinsamkeit:
+- Unterschied:
+- Einfluss der Rollen:
+
+## E) Historiker-Interviews
+
+Andrea Huwyler-Bachmann
+- Kernaussage:
+- Beleg/Zitat (max. 15 Woerter):
+- Neue Perspektive gegenueber den Zeitzeugen:
+
+Juerg Stuessi-Lauterburg
+- Kernaussage:
+- Beleg/Zitat (max. 15 Woerter):
+- Neue Perspektive gegenueber den Zeitzeugen:
+
+## F) Kontext-Check
+
+Kontextseite 1:
+- Detail / Beleg:
+- Bestaetigt oder relativiert?
+
+Kontextseite 2:
+- Detail / Beleg:
+- Bestaetigt oder relativiert?
+
+## G) Urteil (6-8 Saetze)
+
+- Text:

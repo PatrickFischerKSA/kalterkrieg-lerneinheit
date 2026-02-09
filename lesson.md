@@ -1,45 +1,67 @@
-# Lerneinheit: Kalter Krieg (Sek II, asynchron)
+# Lerneinheit: Kalter Krieg (Sek II, 90 Minuten, asynchron)
 
 ## Lernziele
 
-- Die Lernenden beschreiben zentrale Phasen des Kalten Krieges mithilfe des Zeitstrahls.
-- Die Lernenden analysieren eine Fallstudie aus den Kapiteln und koennen deren Bedeutung begruenden.
-- Die Lernenden werten ein Zeitzeugeninterview aus und unterscheiden zwischen Aussage und Deutung.
-- Die Lernenden beurteilen, wie Bedrohungslagen den Alltag in der Schweiz beeinflussten (Rubrik "Ernstfall").
+- Zentrale Aussagen aus Zeitzeugeninterviews identifizieren und paraphrasieren.
+- Zwischen Erlebnis (Fakt) und Deutung (Bewertung) unterscheiden.
+- Rolle und Perspektive der Zeitzeugen analysieren.
+- Historiker-Perspektiven einbeziehen.
+- Aussagen mit Kontextseiten (Kapitel/Ernstfall/Zeitstrahl) abgleichen.
+- Ein begruendetes Urteil zur Bedeutung der Aussagen formulieren.
 
 ## Dauer und Format
 
-- Empfohlen: 90 Minuten (asynchron)
-- Alternative: 2 x 45 Minuten
+- 90 Minuten (asynchron, Einzelarbeit)
 
 ## Material
 
 - Webseite: https://www.kalterkrieg.ch/
-- Dateien in diesem Repo: `activities.md`, `feedback.md`, `learning-log.md`
+- Dateien: `activities.md`, `feedback.md`, `learning-log.md`, `interview-raster.md`, `interview-leitfragen.md`, `musterloesungen.md`, `feedback.html`
+
+## Hinweis zur Interview-Auswahl
+
+Zeitzeugen-Interviews fuer die Tiefenanalyse:
+
+- Johanna Hurni (Brigadier a.D.)
+- Josef Feldmann (Korpskommandant a.D.)
+
+Historiker-Interviews fuer den Perspektivabgleich:
+
+- Andrea Huwyler-Bachmann (Historikerin)
+- Juerg Stuessi-Lauterburg (Militaerhistoriker)
 
 ## Ablauf (90 Min)
 
 1. Orientierung (10 Min)
-   - Navigation erkunden (Zeitstrahl, Kapitel, Ernstfall, Interviews).
-   - Kurz notieren: Welche Themenbereiche scheinen besonders wichtig?
+   - Interview-Uebersicht oeffnen, Hurni und Feldmann auswaehlen.
 
-2. Zeitstrahl-Analyse (20 Min)
-   - 3 Ereignisse aus dem Zeitstrahl waehlen und kurz zusammenfassen.
-   - Je Ereignis: Welche Bild- oder Dokumentenquelle wirkt besonders aussagekraeftig und warum?
+2. Interview A - Tiefenanalyse (25 Min)
+   - Kernaussage paraphrasieren.
+   - Mindestens 3 konkrete Aussagen/Details herausarbeiten.
+   - Erlebnis (Fakt) vs. Deutung (Bewertung) markieren.
+   - Raster in `interview-raster.md` und Leitfragen in `interview-leitfragen.md` nutzen.
 
-3. Kapitel-Fallstudie (25 Min)
-   - Ein Kapitel auswaehlen (z. B. "Kuba" oder "Atomwaffen auf deutschem Boden").
-   - Leitfragen beantworten (siehe `activities.md`).
+3. Interview B - Tiefenanalyse (20 Min)
+   - Gleicher Ablauf wie Interview A.
 
-4. Zeitzeugeninterview (15 Min)
-   - Ein Interview auswaehlen.
-   - Kernaussage + Kurz-Zitat (max. 15 Woerter) dokumentieren.
+4. Vergleich und Perspektivenanalyse (10 Min)
+   - Gemeinsamkeiten und Unterschiede in Rolle, Aussage, Begruendung.
 
-5. Ernstfall und Urteil (20 Min)
-   - Ein Beispiel aus "Ernstfall" auswerten: Was zeigt es ueber Alltag, Schutzmassnahmen oder Bedrohungswahrnehmung?
-   - Kurzes Urteil: Inwiefern veraendert diese Quelle deine Sicht auf den Kalten Krieg in der Schweiz?
+5. Historiker-Interviews (10 Min)
+   - Kernaussage und 1 Beleg je Interview notieren.
+   - Perspektive im Vergleich zu den Zeitzeugen benennen.
+
+6. Kontext-Check (10 Min)
+   - Aussagen mit Kapiteln/Ernstfall/Zeitstrahl abgleichen.
+
+7. Urteil (5 Min)
+   - Kurzer Text (6-8 Saetze) mit Belegen.
+
+## Sofortfeedback
+
+- Nutze `feedback.html` fuer strukturiertes Feedback zu deinen Eingaben.
+- Musterloesungen findest du in `musterloesungen.md`.
 
 ## Abgabe
 
-- `learning-log.md` ausfuellen und speichern.
-- Optional: Quiz in `index.html` fuer Sofortfeedback nutzen.
+- `learning-log.md` ausfuellen.

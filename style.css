@@ -10,9 +10,7 @@
   --line: #d9d2c7;
 }
 
-* {
-  box-sizing: border-box;
-}
+* { box-sizing: border-box; }
 
 body {
   margin: 0;
@@ -44,10 +42,7 @@ body {
   margin: 0 0 8px;
 }
 
-h1 {
-  font-size: clamp(28px, 5vw, 48px);
-  margin: 0 0 12px;
-}
+h1 { font-size: clamp(28px, 5vw, 48px); margin: 0 0 12px; }
 
 .lede {
   max-width: 720px;
@@ -55,10 +50,7 @@ h1 {
   color: #f0e9d8;
 }
 
-.site {
-  color: #ffd9b5;
-  font-weight: 600;
-}
+.site { color: #ffd9b5; font-weight: 600; }
 
 .actions {
   display: flex;
@@ -101,41 +93,63 @@ main {
   box-shadow: 0 12px 30px rgba(30, 31, 28, 0.08);
 }
 
-.card h2 {
-  margin-top: 0;
-}
+.card h2 { margin-top: 0; }
 
-ol {
-  padding-left: 20px;
-}
+ol { padding-left: 20px; }
 
-.hint {
-  color: var(--muted);
-}
+.hint { color: var(--muted); }
 
 .question {
   border-top: 1px dashed var(--line);
   padding: 12px 0;
 }
 
-.question:first-child {
-  border-top: none;
-}
+.question:first-child { border-top: none; }
 
-.question h3 {
-  margin: 0 0 8px;
-  font-size: 18px;
-}
+.question h3 { margin: 0 0 8px; font-size: 18px; }
 
-.options {
-  display: grid;
-  gap: 6px;
-}
-
-.score {
-  margin-top: 12px;
+.interview label {
+  display: block;
+  margin: 12px 0 4px;
   font-family: "Space Grotesk", sans-serif;
   font-weight: 600;
+}
+
+.debug-toggle {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 8px;
+  font-weight: 600;
+}
+
+textarea {
+  width: 100%;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 10px;
+  font-family: "Spectral", serif;
+  font-size: 14px;
+  background: #fbf8f1;
+}
+
+.feedback {
+  margin-top: 12px;
+  padding: 10px 12px;
+  border-left: 4px solid var(--accent-2);
+  background: #fff6ed;
+  border-radius: 8px;
+  display: none;
+}
+
+.feedback.active { display: block; }
+
+.feedback .debug {
+  margin-top: 10px;
+  padding-top: 8px;
+  border-top: 1px dashed var(--line);
+  color: var(--muted);
+  font-size: 13px;
 }
 
 pre {
@@ -146,8 +160,5 @@ pre {
 }
 
 @media (max-width: 700px) {
-  .actions {
-    flex-direction: column;
-    align-items: stretch;
-  }
+  .actions { flex-direction: column; align-items: stretch; }
 }

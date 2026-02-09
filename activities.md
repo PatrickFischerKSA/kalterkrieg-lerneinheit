@@ -1,35 +1,60 @@
-# Aufgaben und Beobachtungsauftraege
+# Aufgaben und Beobachtungsauftraege (Interview-Fokus)
 
-## Aufgabe A: Orientierung und Navigation (10 Min)
+## Aufgabe A: Orientierung (10 Min)
 
-- Notiere die sichtbaren Hauptbereiche der Webseite.
-- Waehle einen Bereich, den du zuerst bearbeiten willst, und begruende kurz.
+- Oeffne die Interview-Uebersicht.
+- Waehle die Interviews von Johanna Hurni und Josef Feldmann.
+- Begruende kurz, warum diese Rollen (FHD/MFD vs. Armee-Fuehrung) einen Vergleich erlauben.
 
-## Aufgabe B: Zeitstrahl (20 Min)
+## Aufgabe B: Interview A - Johanna Hurni (25 Min)
 
-Waehle 3 Ereignisse und bearbeite je Ereignis:
+1. Kernaussage (1-2 Saetze, paraphrasiert).
+2. Drei konkrete Aussagen/Details (kurze Zitate, max. 15 Woerter).
+3. Beobachtungsauftrag: Welche Erfahrungen (z. B. Alltag, Ausbildung, Rollenbilder) begruenden ihre Aussagen?
+4. Markiere pro Aussage: Fakt/Erlebnis oder Deutung/Bewertung.
+5. Perspektive: Wie praegt ihre Rolle im FHD/MFD die Aussagen?
+6. Nutze das Raster in `interview-raster.md` und die Leitfragen in `interview-leitfragen.md`.
 
-- Datum / Zeitraum
-- Kurzbeschreibung (2-3 Saetze)
-- Beobachtungsauftrag: Welche Bild- oder Dokumentenquelle unterstuetzt deine Beschreibung besonders? Warum?
+## Aufgabe C: Interview B - Josef Feldmann (20 Min)
 
-## Aufgabe C: Kapitel-Fallstudie (25 Min)
+1. Kernaussage (1-2 Saetze, paraphrasiert).
+2. Drei konkrete Aussagen/Details (kurze Zitate, max. 15 Woerter).
+3. Beobachtungsauftrag: Welche Bedrohungslage und Strategie beschreibt er?
+4. Markiere pro Aussage: Fakt/Erlebnis oder Deutung/Bewertung.
+5. Perspektive: Wie beeinflusst seine Funktion als Armee-Fuehrung die Aussagen?
+6. Nutze das Raster in `interview-raster.md` und die Leitfragen in `interview-leitfragen.md`.
 
-Waehle ein Kapitel aus der Uebersicht.
+## Aufgabe D: Vergleich der Perspektiven (10 Min)
 
-- Worum geht es im Kapitel? (3-4 Saetze)
-- Welche Schluesselfrage oder Spannung wird sichtbar?
-- Beobachtungsauftrag: Notiere 2 Details (Zahlen, Orte, Begriffe, Akteure), die deine Zusammenfassung stuetzen.
+- Gemeinsamkeit: Wo decken sich die Aussagen beider Zeitzeugen?
+- Unterschied: Wo gewichten sie unterschiedlich oder widersprechen?
+- Beobachtungsauftrag: Erklaere, wie Rolle und Funktion die Aussagen praegen.
 
-## Aufgabe D: Interviewauswertung (15 Min)
+## Aufgabe E: Historiker-Interviews (10 Min)
 
-- Waehle ein Interview.
-- Kernaussage in eigenen Worten (1-2 Saetze).
-- Kurzes Zitat (max. 15 Woerter).
-- Beobachtungsauftrag: Welche Perspektive oder Erfahrung wird besonders deutlich?
+- Lies die beiden Historiker-Interviews (Andrea Huwyler-Bachmann und Juerg Stuessi-Lauterburg).
+- Notiere pro Interview die Kernaussage (1 Satz).
+- Notiere pro Interview 1 Beleg/Zitat (max. 15 Woerter).
+- Notiere, welche Perspektive sie den Zeitzeugen-Aussagen hinzufuegen.
 
-## Aufgabe E: Ernstfall (20 Min)
+## Aufgabe F: Kontext-Check (10 Min)
 
-- Waehle eine Quelle/Seite aus "Ernstfall".
-- Beschreibe, was sie ueber Vorbereitung, Schutzmassnahmen oder Alltagsveraenderung zeigt.
-- Urteil: Welche Bedeutung hat dieses Beispiel fuer das Verstaendnis des Kalten Krieges in der Schweiz?
+- Waehle zwei Kontextseiten (z. B. Nachrichtendienst, Zivilschutz, Atomwaffen, Armee, Gesamtverteidigung, Frauen).
+- Notiere je Kontextseite 1 Detail, das eine Aussage bestaetigt oder relativiert.
+
+## Aufgabe G: Urteil (5 Min)
+
+- Schreibe 6-8 Saetze: Was zeigen Zeitzeugen **und** Historiker ueber die Schweiz im Kalten Krieg?
+- Nutze mindestens 2 Interview-Belege und 1 Kontext-Beleg.
+
+## Aufgabe H: Erweiterung (optional, 10-15 Min)
+
+- Waehle ein drittes Zeitzeugen-Interview aus der Uebersicht.
+- Fuelle das Raster in `interview-raster.md` fuer dieses Interview komplett aus.
+- Vergleiche kurz: Welche Perspektive ergaenzt das Bild am deutlichsten?
+
+## Zusatzhilfe
+
+- Leitfragen: `interview-leitfragen.md`
+- Musterloesungen: `musterloesungen.md`
+- Feedback-Tool: `feedback.html`
